@@ -4,6 +4,7 @@
 
 ### Hi there 👋
 
+I'm Lee Ji Eun, a new developer. I will become a developer who learns hard.😄
 <!--
 **izzy1202/izzy1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
