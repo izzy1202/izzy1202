@@ -28,21 +28,11 @@
 </div>
 
 # 🌱 Experience
-##### 2022.08 ~ 2023.01 KH 정보 교육원 (디지털컨버전스) 자바(JAVA)기반 공공데이터 융합 개발자 양성과정 수료
-##### 2023.03 청년 AI·Big Data 아카데미 온라인 기초과정 (MOOC) 수강
-##### 2023.03 웬즈데잇(IT) 카카오페이 개발자 인사담당자 강연 참여
 
-<!--
-**izzy1202/izzy1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>
+   <ul>
+      <li>2022.08 ~ 2023.01 KH 정보 교육원 (디지털컨버전스) 자바(JAVA)기반 공공데이터 융합 개발자 양성과정 수료</li>
+      <li> 2023.03 청년 AI·Big Data 아카데미 온라인 기초과정 (MOOC) 수강 <br></li>
+      <li>2023.03 웬즈데잇(IT) 카카오페이 개발자 인사담당자 강연 참여</li>
+    </ul>
+</h4>
